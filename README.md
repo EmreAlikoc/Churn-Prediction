@@ -82,4 +82,8 @@ Model eğitim sürecinde kullanılan tüm encoding işlemleri ve mapping yapıla
   - Yeni müşteri verisi girerek churn tahmini alabilir
 
 
+![dashboard 1](images/image1.jpg)
 
+![dashboard 2](images/image2.jpg)
+
+![dashboard 3](images/image3.jpg)
